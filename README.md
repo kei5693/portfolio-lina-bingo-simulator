@@ -1,24 +1,5 @@
-# code
+# lina-bingo-simulator
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 개요 : 라이나생명 고연령 건강빙고
+- 대응기기 : 모바일, 태블릿
+- [링크](https://kei5693.github.io/work/portfolio/lina-bingo-simulator/#/)
